@@ -2,14 +2,14 @@
 
 ~*未提供描述。*~
 
-# 世界观概念
+# 世界观概念 / STORY SETTING
 
-# 视觉概念
+# 视觉概念 / ARTISTIC CONCEPT
 
-# 组织
+# 组织 / ORGANIZATION
 
-# 衣着风尚
+# 衣着风尚 / GARMENT
 
-# 冒险构成
+# 冒险构成 / ADVENTURE
 
-# 角色
+# 角色 / CHARACTER
