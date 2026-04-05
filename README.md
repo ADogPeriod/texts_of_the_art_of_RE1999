@@ -1,6 +1,6 @@
 # 《〈重返未来：1999〉官方艺术设定集》
 
-|[**点此**查看仓库描述](DESCRIPTION.md)|
+| [**点此**查看仓库描述](DESCRIPTION.md) |
 
 > [!IMPORTANT]
 >
